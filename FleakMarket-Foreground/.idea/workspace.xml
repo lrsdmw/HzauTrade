@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3129198-27c4-4e00-b92d-28fae0ae47b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HwNjGT7YEuBz6yZndbkblfrhFR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\FleakMarket-master\FleakMarket-master\FleakMarket-Foreground\static\img\icon" />
+      <recent name="C:\Users\Administrator\Desktop\FleakMarket-master\FleakMarket-master\FleakMarket-Foreground\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\FleakMarket-master\FleakMarket-master\FleakMarket-Foreground\static\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3129198-27c4-4e00-b92d-28fae0ae47b7" name="Default Changelist" comment="" />
+      <created>1669192318972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669192318972</updated>
+      <workItem from="1669192320739" duration="1980000" />
+      <workItem from="1669269052995" duration="5331000" />
+      <workItem from="1669287453353" duration="890000" />
+      <workItem from="1669292939045" duration="1288000" />
+      <workItem from="1669640434486" duration="603000" />
+      <workItem from="1669645619829" duration="5564000" />
+      <workItem from="1669720465080" duration="2001000" />
+      <workItem from="1669729647234" duration="1086000" />
+      <workItem from="1669805110082" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
